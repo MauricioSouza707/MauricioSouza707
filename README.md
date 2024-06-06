@@ -25,5 +25,4 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 
 **Email:** maurici4441@gmail.com
 **LinkedIn:** www.linkedin.com/in/mauricio-ribeiro-a1528a149
-Obrigado por Visitar!
 Obrigado por visitar meu perfil no GitHub! Se você tiver alguma dúvida ou quiser colaborar em algum projeto, não hesite em entrar em contato. Vamos construir algo incrível juntos!
