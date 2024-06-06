@@ -2,18 +2,21 @@
 
 Olá! Eu sou **Mauricio**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em [lista de tecnologias ou áreas de especialização, como desenvolvimento web, machine learning, etc.], e adoro colaborar em projetos de código aberto.
 
-Minhas Habilidades
+**Minhas Habilidades:**
+
 Aqui estão algumas das minhas principais habilidades:
 
 Linguagens de Programação: [JavaScript, Python, Java, etc.]
 Frameworks e Bibliotecas: [React, Angular, Django, etc.]
 Ferramentas e Tecnologias: [Git, Docker, Kubernetes, etc.]
 Outras Habilidades: [Testes automatizados, DevOps, design de interface, etc.]
+
 **Projetos em Destaque**
 Projeto 1
 Breve descrição do projeto, seus objetivos e principais funcionalidades.
 
 **Minhas Contribuições**
+
 Eu acredito no poder da colaboração e do código aberto. Aqui estão algumas das minhas contribuições para a comunidade:
 
 Repositório 1 - Correções de bugs e melhorias na documentação.
